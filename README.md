@@ -1,7 +1,7 @@
 <br />
 <div id="readme-top" align="center">
   <a href="https://github.com/itsmrval/http-to-https">
-    <img src="https://github.com/itsmrval/http-to-https/blob/main/logo.png" alt="Logo" width="120" height="120">
+    <img src="https://raw.githubusercontent.com/itsmrval/http-to-https/main/logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">http-to-https</h3>
