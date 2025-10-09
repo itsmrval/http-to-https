@@ -7,7 +7,7 @@
   <h3 align="center">http-to-https</h3>
 
   <p align="center">
-    The most simple http to https redirector
+    Simplest http to https redirector
     <br />
     <br />
     <a href="https://github.com/itsmrval/http-to-https/issues">Report Bug</a>
